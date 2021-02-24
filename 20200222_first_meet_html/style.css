@@ -1,0 +1,18 @@
+/* 在CSS檔案裡跟設定無關必須註解 Ctrl + /  */
+/* CSS選擇器 */
+h1 {
+    color: red;  
+    /* 屬性: 值; */
+    /* 表示對齊方式text-align: ;  */
+    text-align: center;
+
+}
+
+h2 {
+    color: royalblue;
+
+}
+
+h3 {
+    color: rgba(19, 172, 164, 0.822);
+}
